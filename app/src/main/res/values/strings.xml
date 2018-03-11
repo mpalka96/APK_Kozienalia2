@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APK_Kozienalia</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strona_glowna">Strona główna</string>
+    <string name="kalendarz">Kalendarz</string>
+    <string name="ulubione">Ulubione</string>
+    <string name="mapa">Mapa</string>
+    <string name="title_activity_scena_glowna">scena_glowna</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

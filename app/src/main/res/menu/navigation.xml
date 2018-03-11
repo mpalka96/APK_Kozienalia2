@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/str_glowna"
+        android:icon="@drawable/ic_home_blue_grey_200_24dp"
+        android:title="@string/strona_glowna" />
+
+    <item
+        android:id="@+id/kalendarz"
+        android:icon="@drawable/ic_date_range_blue_grey_200_24dp"
+        android:title="@string/kalendarz" />
+
+    <item
+        android:id="@+id/ulubione"
+        android:icon="@drawable/ic_favorite_blue_grey_200_24dp"
+        android:title="@string/ulubione" />
+
+    <item
+
+        android:id="@+id/mapa"
+        android:icon="@drawable/ic_map_blue_grey_200_24dp"
+        android:title="@string/mapa" />
+
+</menu>

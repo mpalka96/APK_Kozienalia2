@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727307376629",
+    "firebase_url": "https://kozienalia-apk.firebaseio.com",
+    "project_id": "kozienalia-apk",
+    "storage_bucket": "kozienalia-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727307376629:android:80576fbaf0d0e6b0",
+        "android_client_info": {
+          "package_name": "com.example.marci.apk_kozienalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727307376629-ldvhp0me62ordmpqhsgtf7hi4u8qtfqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marci.apk_kozienalia",
+            "certificate_hash": "73bfa351b7cec29c50bb5988627690b73f52fd66"
+          }
+        },
+        {
+          "client_id": "727307376629-8ju5bveevfov869jc51sarb4o6ck8dlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8cHcfbrylI3GYMaV_XIZyNBbAGXpvMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727307376629-8ju5bveevfov869jc51sarb4o6ck8dlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
